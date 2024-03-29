@@ -1,0 +1,17 @@
+{
+    "register": "Registration Page",
+    "name": "Write your Full Name",
+    "number": "Write your Full Phone Number",
+    "mail": "Write your Mail",
+    "country": "Select your Country",
+    "story": "Tell something about you",
+    "password": "Select your Password",
+    "sign": "Sign Up",
+    "empty": "Its not be empty",
+    "nam": "Name",
+    "phon": "Phone",
+    "ma": "Mail",
+    "coun": "Country",
+    "stor": "Story",
+    "info": "Information Page"
+}
